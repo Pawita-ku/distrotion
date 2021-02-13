@@ -1,0 +1,3 @@
+1 Pawita 1234 10
+2 Nopakaoh 5678 1200
+3 Ann 9100 30
